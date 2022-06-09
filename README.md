@@ -12,9 +12,9 @@
 
 
 ## Screenshots
-Singing Event          |  Tickets
-:-------------------------:|:-------------------------:
-![MAIN PAGE](Homepage.png)|![LOGIN](Tickets-1.png)
+HOME PAGE         
+:-------------------------:
+![MAIN PAGE](1.jpg)|
 
 
 
