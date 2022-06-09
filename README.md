@@ -14,7 +14,7 @@
 ## Screenshots
 HOME PAGE         
 :-------------------------:
-![MAIN PAGE](1.jpg)|
+![MAIN PAGE](stockzo.png)|
 
 
 
